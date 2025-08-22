@@ -7,7 +7,7 @@ author:
   - Орлов И. С.
 institute:
   - Российский университет дружбы народов, Москва, Россия
-date: 12 апреля 2025
+date: 23 августа 2025
 
 ## i18n babel
 babel-lang: russian
@@ -39,7 +39,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](image/rutnixya.jpg){width=70%}
+![](image/rutnixya.jpg)
 
 :::
 ::::::::::::::
