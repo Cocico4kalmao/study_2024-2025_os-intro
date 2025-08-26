@@ -1,0 +1,11 @@
+cat > test.txt << EOF
+Hello World
+HELLO WORLD
+hello world
+hElLo WoRlD
+Привет мир
+ПРИВЕТ МИР
+привет мир
+Строка с числами: 42
+Строка с датой: 2024-01-15
+EOF
